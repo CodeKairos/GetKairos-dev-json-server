@@ -1,12 +1,20 @@
 {
-  "posts":[
+  "bookingType": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
+      "type": "meeting room"
+    },
+    {
+      "type": "shared seat"
     }
   ],
-  "comments" : [
+  "posts": [
+    {
+      "id": 0,
+      "title": "First post!",
+      "content": "My first content!"
+    }
+  ],
+  "comments": [
     {
       "id": 0,
       "content": "Wow such content!",
