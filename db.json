@@ -5,6 +5,9 @@
     },
     {
       "type": "shared seat"
+    },
+    {
+      "type": "test room"
     }
   ],
   "posts": [
