@@ -1,9 +1,11 @@
 {
-  "bookingType": [
+  "bookableTypes": [
     {
+      "id": 0,
       "type": "meeting room"
     },
     {
+      "id": 1,
       "type": "shared seat"
     }
   ],
